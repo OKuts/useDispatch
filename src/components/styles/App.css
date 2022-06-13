@@ -1,0 +1,10 @@
+.wrap {
+    display: flex;
+}
+.todo-list {
+    margin-right: 50px;
+}
+
+.todo {
+    display: flex;
+}
